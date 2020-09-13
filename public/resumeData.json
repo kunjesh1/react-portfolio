@@ -1,18 +1,18 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
+    "name": "Kunjesh Kumar",
+    "occupation": "Full Stack Developer",
     "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "image": "IG_Kunjesh.jpg",
+    "bio": "My name is Kunjesh, I'm a Full Stack  Developer. Currently I'm working at Quantiphi Analytics while also coaching ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "kumarkunjesh1@gmail.com",
+    "phone": "+91 7278738049",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "Malad West",
+      "city": "Mumbai",
+      "state": "India",
+      "zip": "400064"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "http://timbakerdev.com",
@@ -24,7 +24,7 @@
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/kunjesh-kumar-2b7059b4/",
         "className": "fa fa-linkedin"
       },
       {
@@ -34,7 +34,7 @@
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/kunjesh1",
         "className": "fa fa-github"
       }
     ]
@@ -43,21 +43,21 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "Institute of Engineering and Management",
+        "degree": "Bachelor of Information Technology",
+        "graduated": "May 2017",
+        "description": "8.12 CGPA / 10 CGPA"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
+        "company": "Quantiphi Analytics",
+        "title": "Full stack developer",
         "years": "April 2020 - Present",
         "description": "Teaching ReactJS to thousands of students."
       },
       {
-        "company": "Lindar Media",
+        "company": "Cognizant Technology Solutions",
         "title": "Software Engineer",
         "years": "Nov 2019 - April 2020",
         "description": "Building MrQ, a gambling website."
@@ -93,34 +93,16 @@
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
-      },
-      {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
-      },
-      {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
         "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "category": "Netflix Clone built with ReactJS and TMDB API",
+        "image": "netflix.png",
+        "url": "https://movie-explorer-e816c.web.app/"
+      },
+      {
+        "title": "Airbnb clone",
+        "category": "Airbnb Clone built ReactJS",
+        "image": "airbnb.png",
+        "url": "https://airbnb-clone-9754d.web.app/"
       }
     ]
   },
@@ -131,8 +113,8 @@
         "user": "Kareem Abdul Jabbar"
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "Kunjesh, a person with hardworking, strong commitment and soft hearted. I always found a professional attitude and can do it approach, which is going to help you to grow in future",
+        "user": "Satish Bhor... Client"
       }
     ]
   }
